@@ -60,6 +60,7 @@ print(classification_report1)
 
 ![image](https://github.com/user-attachments/assets/4786aaff-c4dc-4c02-9241-ab8d714dc48b)
 
+![image](https://github.com/user-attachments/assets/e4aa2057-9a0b-4c34-a045-811ceb1ebf2a)
 
 
 ## Result:
