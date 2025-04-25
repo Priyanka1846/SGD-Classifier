@@ -58,7 +58,7 @@ print(classification_report1)
 
 ![image](https://github.com/user-attachments/assets/1fe1ca1a-7e2c-4192-b404-ef56c13aaf85)
 
-
+![image](https://github.com/user-attachments/assets/4786aaff-c4dc-4c02-9241-ab8d714dc48b)
 
 
 
